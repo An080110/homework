@@ -13,16 +13,16 @@ int main(void)
     }
     else if (op=='-')
     {
-        printf("%.2f/n",a-b);    
+        printf("%.2f\n",a-b);    
     }
     else if (op=='*')
     {
-        printf("%2.f\n",a*b);
+        printf("%.2f\n",a*b);
     }
     else if (op=='/')
     {
         if (b==0)
-        {printf("错误：0不能作除数\n")   
+        {printf("错误：除数不能为0\n")   
             }
         else
  {
