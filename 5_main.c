@@ -29,8 +29,9 @@ else if (op=='*')
 {
     printf("%.1f"\n,a*b);
 }
+    else
 {
-    printf("不支持的运算符"\n);
+    printf("不支持的运算符\n");
 }
 return 0;
 }
