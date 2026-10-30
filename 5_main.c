@@ -22,7 +22,7 @@ int main(void)
     else if (op == '/')
     {
         if (b == 0)
-        {printf("错误：除数不能为0\n");   
+        {printf("错误：除数不能为 0\n");   
             }
         else
  {
