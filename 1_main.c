@@ -1,7 +1,8 @@
 //202610302201
 //安家亮
+
 #include <stdio.h>
-int main()
+int main(void)
 {
   float a,b;
   scanf("%f",&a);
