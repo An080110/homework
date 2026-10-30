@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main(void)
 {
-    float a,b；
+    float a,b;
     char op;
    
     scanf("%f%c%f",&a,&op,&b);
@@ -22,7 +22,7 @@ int main(void)
     else if (op=='/')
     {
         if (b==0)
-        {printf("错误：除数不能为0\n")   
+        {printf("错误：除数不能为0\n");   
             }
         else
  {
